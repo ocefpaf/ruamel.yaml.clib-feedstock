@@ -1,4 +1,4 @@
-{% set version = "0.1.2" %}
+{% set version = "0.2.0" %}
 
 package:
   name: ruamel.yaml.clib
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/r/ruamel.yaml.clib/ruamel.yaml.clib-{{ version }}.tar.gz
-  sha256: cee86ecc893a6a8ecaa7c6a9c2d06f75f614176210d78a5f155f8e78d6989509
+  sha256: b66832ea8077d9b3f6e311c4a53d06273db5dc2db6e8a908550f3c14d67e718c
 
 build:
   number: 0
